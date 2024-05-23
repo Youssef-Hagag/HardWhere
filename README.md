@@ -8,6 +8,7 @@ HardWhere is an online store designed to provide users with a seamless shopping 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
+- [Acknowledgements](#acknowledgements)
 
 ## Features
 
